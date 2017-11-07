@@ -1,2 +1,2 @@
 # University-Programming
-Collection of personal programming
+Repository of personal programming and other work, to keep organised.
