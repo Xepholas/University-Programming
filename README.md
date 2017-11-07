@@ -1,2 +1,2 @@
-# University-Programming-Term-1-
-Collection of Python programming done across my first term.
+# University-Programming
+Collection of personal programming
