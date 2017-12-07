@@ -1,0 +1,4 @@
+- Change 0 and 1 loop and op variables to boolean
+- Use dictionaries for import/export functions +
+- Clean up import function with return +
+- Finish return menu
